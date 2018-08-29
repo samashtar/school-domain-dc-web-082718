@@ -1,5 +1,7 @@
 class School
   
+  def initialize (school)
+    
   
   
   
